@@ -1,1 +1,1 @@
-# API-integrated wheather 
+# API-integrated weather 
